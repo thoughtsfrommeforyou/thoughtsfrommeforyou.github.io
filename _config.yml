@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Thoughts from me for you
+title: Thoughts From Me For You
 
 # Short description of your site
 # description: A virtual proof that I'm awesome
@@ -20,11 +20,8 @@ url: "https://thoughtsfrommeforyou.com"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  About: "about"
+  Thoughts: "thoughts"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -67,11 +64,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+#  rss: true
+  email: "thoughtsfrommeforyou@gmail.com"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -93,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "thoughtsfrommeforyou.com"
 
 # --- Web Statistics Section --- #
 
